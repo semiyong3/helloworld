@@ -1,4 +1,4 @@
 # helloworld
 github study
 
-this is second commit /version2 brance
+This is second commit/ version2 brance
